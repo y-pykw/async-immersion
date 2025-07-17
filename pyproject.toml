@@ -1,0 +1,22 @@
+[project]
+name = "async"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "diffusers>=0.34.0",
+    "dotenv>=0.9.9",
+    "google-generativeai>=0.8.5",
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.10.3",
+    "midiutil>=1.2.1",
+    "moviepy>=1.0.3",
+    "numpy>=2.3.1",
+    "opencv-python>=4.11.0.86",
+    "pillow>=11.3.0",
+    "pyaudio>=0.2.14",
+    "scipy>=1.16.0",
+    "torch>=2.7.1",
+    "transformers>=4.53.1",
+]
